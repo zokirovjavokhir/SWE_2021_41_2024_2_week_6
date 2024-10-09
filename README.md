@@ -30,7 +30,7 @@ docker exec ossp-container git —version
 This command is used to check the version of **Git** installed inside the running Docker container named **ossp-container.**
 
 ```bash
-docker exec ossp-container python —version
+docker exec ossp-container python -—version
 ```
 This command is used to check the version of **Python** installed inside the running Docker container named **ossp-container.**
 
