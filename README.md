@@ -2,7 +2,7 @@
 
 ## Week 4 Assignment
 https://github.com/zokirovjavokhir/SWE_2021_41_2024_2_week_4  
-```
+```bash
 def isHappy(n):
     square = set()
     while n != 1 and n not in square:
