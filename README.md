@@ -14,6 +14,7 @@ n = int(input("Enter a number: "))
 print(isHappy(0))
 ```  
 The function **isHappy(n)** that checks whether a given number n is a happy number. A happy number is defined as a number that eventually reaches 1 when replaced by the sum of the squares of its digits. If it loops endlessly without reaching 1, it is not a happy number.
+
 ---
 ## Week 5 Assignment
 ```
