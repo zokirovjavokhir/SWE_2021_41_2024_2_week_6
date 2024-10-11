@@ -37,4 +37,4 @@ This code is used to check the version of **Python** installed inside the runnin
 ```bash
 docker inspect --format="{{ HostConfig Binds }}" ossp-container
 ```
-This code will output a list of volume bindings for the **ossp-container.** These bindings represent the directories or files on the host machine that are mounted into the container.
+This code will output a list of volume bindings for the **ossp-container.** These bindings represent the directories or files on the host machine that are mounted into the container.(I had a problem with this part in previous assignment, no matter what I do to fix the problem I kept getting []).
